@@ -1,0 +1,15 @@
+## Build generated
+ TestCachingJson.xcodeproj/build/
+ TestCachingJson.xcodeproj/DerivedData
+ TestCachingJson.xcodeproj/build.xcarchive
+
+## Various settings
+ TestCachingJson.xcodeproj/*.pbxuser
+ TestCachingJson.xcodeproj/!default.pbxuser
+ TestCachingJson.xcodeproj/*.mode1v3
+ TestCachingJson.xcodeproj/!default.mode1v3
+ TestCachingJson.xcodeproj/*.mode2v3
+ TestCachingJson.xcodeproj/!default.mode2v3
+ TestCachingJson.xcodeproj/*.perspectivev3
+ TestCachingJson.xcodeproj/!default.perspectivev3
+ TestCachingJson.xcodeproj/xcuserdata
